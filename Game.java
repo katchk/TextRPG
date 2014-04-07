@@ -10,6 +10,7 @@ import textrpg.items.*;
 import textrpg.monsters.Slime;
 import textrpg.rooms.*;
 import textrpg.weapons.*;
+import com.google.gson.*;
 
 public class Game 
 {
